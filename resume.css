@@ -1,0 +1,298 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Lato', sans-serif;
+    }
+body{
+  
+    background-color:#FFE6E8;
+}
+.intro2{
+    margin-top: -90px;
+}
+.box{
+    background-color:#FFFFFF;
+    margin: 5px 260px 5px 260px;
+    
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    
+}
+.header1{
+    
+    width: 80%;
+    height: 20%;
+    margin-top: 10px;
+}
+.header1 .img1{
+    float: left;
+    margin: 15px 50px 10px 50px;
+    padding:10px 20px 10px 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.header1 .intro{
+    width: 20%;
+    margin: 10px 80px 10px 50px;
+    padding: 0px 0px 15px 0px;
+}
+.header1 .intro2{
+    margin: 20px 20px 20px 0px;
+    padding: 20px 10px 5px 0px;
+}
+.header1 .intro2 .one{
+    text-align: left;
+    margin: -20spx 10px 0px -15px;
+    color: #488AC7;
+    
+}
+.header1 .intro2 .two{
+    margin:-15px ;
+    color:grey;
+    font-size: medium;
+}
+.header1 .intro2 .para1{
+    margin: -3px;
+    color: black;
+    font-size:11px;
+    font-weight: bold;
+}
+.info{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px 0px 50px;
+}
+.info ul li{
+    list-style: none;
+    margin: 1rem ;
+}
+.info1{
+   /* border: 1px solid black;*/
+    padding-left: 60px;
+}
+.info1 .work{
+    text-align: left;
+    margin: -20spx 10px 0px -15px;
+    color:#6698FF;
+    font-size:20px;
+}
+.info1 .web{
+    text-align: left;
+    margin: 7px -2px 10px 3px;
+    padding: 0px 2px 0px 0px;
+    color:black;
+    font-size:20px;
+    font-weight:bolder;
+}
+.info1 .para2{
+    
+    color: black;
+   
+    margin: -10px -2px 10px 3px;
+    padding: 0px 2px 0px 0px;
+
+}
+.info1 .work1 .s1{
+    margin: 10px;
+    font-size: 20px;
+    font-weight:bolder;
+    color:black;
+}
+.info1 .para3{
+    margin: -3px;
+    color: black;
+   
+    margin: -10px -2px 10px 7px;
+    padding: 0px 2px 0px 0px;
+
+}
+.info1 .work2 .edu{
+    font-size: 20px;
+}
+.info1 .work2 .para4{
+    font-size: 15px;
+}
+.info1 .work2 .date{
+    font-size: 12px;
+
+}
+.info1 .work2{
+    padding: 25px 0px 0px 0px;
+}
+.info1 .work2 .education{
+    margin-top: 10px;
+    color: #6698FF;
+    margin-bottom: 20px;
+}
+.flx{
+    display: flex;
+    justify-content: space-between;
+}
+.info2{
+    padding: 0px 50px 0px 0px;
+}
+.info2 .techno{
+    text-align: left;
+    font-size: 20px;
+    color: #6698FF;
+    padding: 10px 10px 0px 0px;
+    margin: 0px 0px 0px 20px;
+
+}
+.info2 .p1{
+    
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: 15px 0px 0px 0px;
+    color: white;
+    
+}
+
+.info2 .p2{
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+   
+    margin: -10px 0px 0px 0px;
+    color: white;
+    
+}
+.info2 .p3{
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+   
+    margin: -10px 0px 0px 0px;
+    color: white;
+    
+}
+.info2 .p4{
+    float: left;
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+   
+    margin: -10px 0px 0px 0px;
+    color: white;
+    
+    
+}
+.info2 .p7{
+    
+    float: right;
+    
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: -10px 90px 0px 4px;
+    color: white;
+    
+}
+.info2 .p5{
+    float: left;
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+   
+    margin: 10px 0px 0px 0px;
+    color: white;
+    
+}
+.info2 .p8{
+    
+    
+    float: right;
+    
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: 10px 130px 0px 0px;
+    color: white;
+    
+}
+.info2 .p6{
+    clear: both;
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+   
+    margin: 30px 0px 0px 0px;
+    color: white;
+    
+}
+.info2 .p9{
+    
+    margin-right: 140px;
+    float: right;
+    margin-top: -50px;
+    width: fit-content;
+    padding: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin:-30px 100px 0px 10px;
+    color: white;
+}
+.project{
+    padding: 50px 0px 0px 30px;
+    margin: 20px -40px 0px 0px;
+}
+.info2 .project .pro1{
+    color:#6698FF;
+    font-size: 20px;
+}
+.info2 .project .pro2{
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 5px;
+}
+.achievement{
+    padding: 20px 8px 0px 30px;
+}
+.info2 .achievement .achiev{
+    color:#6698FF;
+    font-size: 20px;
+}
+.info2 .achievement .languages{
+    padding-top: 20px;
+    color:#6698FF;
+    font-size: 20px;
+} 
+.info2 .lang{
+    margin: 0px 0px 0px 20px;
+
+}
+.info2 .intrest{
+    padding: 0px 0px 0px 0px;
+    margin: 25px 0px 0px 0px;
+}
+.info2 .intrest .inter{
+    font-size: 20px;
+    color:#6698FF;
+    font-weight: bold;
+}
+.info2 .intrest .lm{
+    width: 100px;
+    height: 20px;
+    background-color: white;
+    border: 0.2px solid gray;
+    border-radius: 5px;
+    padding: 5px 0px 0px 0px;
+    margin: 15px 0px 50px 0px;
+    text-align: center;
+}
+.achievement .langflex{
+    display: flex;
+    justify-content: space-between;
+}
+
